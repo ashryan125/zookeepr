@@ -108,6 +108,17 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Arya",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
